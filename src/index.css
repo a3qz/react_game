@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+[data-reactroot] 
+        {height: 100% !important; background-color: #2e9858;}
+
+		#doc3 {
+    margin: auto 10px;
+    width: auto;
+    height: 2000px;
+    background-color: yellow;
+}
